@@ -9,7 +9,7 @@ public class LineContentLookUp {
 	
 	public ArrayList<String> readfile(String filename) {
 		initialization();
-		filename = foldername+filename;
+		filename = foldername+filename+".txt";
 		readFile(filename);
 		return ContentLookUp;
 	}
