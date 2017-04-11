@@ -19,5 +19,5 @@ while 1:
     input_index = raw_input()
     num = int(input_index)
     x = G1.GetNI(num)
-
+    print x.GetOutDeg()
 
