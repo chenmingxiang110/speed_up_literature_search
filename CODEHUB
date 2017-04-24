@@ -1,7 +1,8 @@
 Every time you try to use snap, please run the following code:
+(For example you would like to run main.py)
 
-cd ~/downloads/snap-3.0.2-3.0-centos6.5-x64-py2.6
-sudo python setup.py install
+/usr/bin/python main.py
+(using the system python rather than the anaconda version to do the job)
 
 Run the following code to get the article info:
 
