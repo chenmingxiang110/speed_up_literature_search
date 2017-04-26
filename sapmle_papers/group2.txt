@@ -1,0 +1,115 @@
+Paper0: The chemistry of two-dimensional layered transition metal dichalcogenide nanosheets
+Paper ID: 77EB2637
+Original paper title: The chemistry of two-dimensional layered transition metal dichalcogenide nanosheets
+Normalized paper title: the chemistry of two dimensional layered transition metal dichalcogenide nanosheets
+Paper publish year: 2013
+Paper publish date: 2013/04/01
+Paper Document Object Identifier (DOI): 10.1038/nchem.1589
+Original venue name: Nature Chemistry
+Normalized venue name: nat chem
+Journal ID mapped to venue name: 0C0D393C
+Conference series ID mapped to venue name: 
+Paper rank: 17682
+
+
+Recommond1: Photoluminescence from chemically exfoliated MoS2
+Paper ID: 77A35F4C
+Original paper title: Photoluminescence from chemically exfoliated MoS2.
+Normalized paper title: photoluminescence from chemically exfoliated mos2
+Paper publish year: 2011
+Paper publish date: 2011/12/14
+Paper Document Object Identifier (DOI): 10.1021/nl201874w
+Original venue name: Nano Letters
+Normalized venue name: nano lett
+Journal ID mapped to venue name: 0892EDBD
+Conference series ID mapped to venue name: 
+Paper rank: 14475
+
+
+Recommond2: Liquid exfoliation of layered materials
+Paper ID: 7C4EC5E1
+Original paper title: Liquid Exfoliation of Layered Materials
+Normalized paper title: liquid exfoliation of layered materials
+Paper publish year: 2013
+Paper publish date: 2013/06/21
+Paper Document Object Identifier (DOI): 
+Original venue name: Science
+Normalized venue name: science
+Journal ID mapped to venue name: 003B355D
+Conference series ID mapped to venue name: 
+Paper rank: 17246
+Paper ID: 797E88FE
+
+
+Recommond3: Enhanced catalytic activity in strained chemically exfoliated WS2 nanosheets for hydrogen evolution
+Paper ID: 7C59F7CE
+Original paper title: Enhanced catalytic activity in strained chemically exfoliated WS2 nanosheets for hydrogen evolution
+Normalized paper title: enhanced catalytic activity in strained chemically exfoliated ws2 nanosheets for hydrogen evolution
+Paper publish year: 2013
+Paper publish date: 2013/09/01
+Paper Document Object Identifier (DOI): 10.1038/nmat3700
+Original venue name: Nature Materials
+Normalized venue name: nat mater
+Journal ID mapped to venue name: 06315123
+Conference series ID mapped to venue name: 
+Paper rank: 17059
+
+
+Recommond4: Thin films of fullerene-like MoS2 nanoparticles with ultra-low friction and wear
+Paper ID: 5D2BB07A
+Original paper title: Thin films of fullerene-like MoS2 nanoparticles with ultra-lowfriction and wear
+Normalized paper title: thin films of fullerene like mos2 nanoparticles with ultra lowfriction and wear
+Paper publish year: 2000
+Paper publish date: 2000/09/14
+Paper Document Object Identifier (DOI): 10.1038/35025020
+Original venue name: Nature
+Normalized venue name: nature
+Journal ID mapped to venue name: 08364228
+Conference series ID mapped to venue name: 
+Paper rank: 16071
+
+
+Recommond5: Conducting MoS2 nanosheets as catalysts for hydrogen evolution reaction
+not found in MAG
+
+
+Recommond6: Metallic 1T phase MoS2 nanosheets as supercapacitor electrode materials
+Paper ID: 76107793
+Original paper title: Metallic 1T phase MoS2 nanosheets as supercapacitor electrode materials
+Normalized paper title: metallic 1t phase mos2 nanosheets as supercapacitor electrode materials
+Paper publish year: 2015
+Paper publish date: 2015/05/01
+Paper Document Object Identifier (DOI): 10.1038/nnano.2015.40
+Original venue name: Nature Nanotechnology
+Normalized venue name: nat nanotechnol
+Journal ID mapped to venue name: 00775C57
+Conference series ID mapped to venue name: 
+Paper rank: 18965
+
+
+Recommond7: Coherent atomic and electronic heterostructures of single-layer MoS2
+Paper ID: 7D75AF22
+Original paper title: Coherent Atomic and Electronic Heterostructures of Single-Layer MoS 2
+Normalized paper title: coherent atomic and electronic heterostructures of single layer mos 2
+Paper publish year: 2012
+Paper publish date: 2012/08/28
+Paper Document Object Identifier (DOI): 
+Original venue name: ACS Nano
+Normalized venue name: acs nano
+Journal ID mapped to venue name: 08ABCD39
+Conference series ID mapped to venue name: 
+Paper rank: 18828
+
+
+Recommond8: One pot Synthesis of CdS Nanocrystals Hybridized with Single Layer Transition Metal Dichalcogenide Nanosheets for Efficient Photocatalytic Hydrogen Evolution
+Paper ID: 7700A4D5
+Original paper title: One‐pot Synthesis of CdS Nanocrystals Hybridized with Single‐Layer Transition‐Metal Dichalcogenide Nanosheets for Efficient Photocatalytic Hydrogen Evolution
+Normalized paper title: one pot synthesis of cds nanocrystals hybridized with single layer transition metal dichalcogenide nanosheets for efficient photocatalytic hydrogen evolution
+Paper publish year: 2015
+Paper publish date: 2015/01/19
+Paper Document Object Identifier (DOI): 10.1002/ange.201410172
+Original venue name: Angewandte Chemie
+Normalized venue name: angew chem int ed
+Journal ID mapped to venue name: 040457E6
+Conference series ID mapped to venue name: 
+Paper rank: 19311

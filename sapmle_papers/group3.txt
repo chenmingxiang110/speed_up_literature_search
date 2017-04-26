@@ -1,0 +1,124 @@
+Paper0: Coal mine ventilation air methane combustion in a catalytic reverse flow reactor: Influence of emission humidity
+Paper ID: 7526AC81
+Original paper title: Coal mine ventilation air methane combustion in a catalytic reverse flow reactor: Influence of emission humidity
+Normalized paper title: coal mine ventilation air methane combustion in a catalytic reverse flow reactor influence of emission humidity
+Paper publish year: 2015
+Paper publish date: 2015/05/31
+Paper Document Object Identifier (DOI): 10.1016/j.fuproc.2015.02.005
+Original venue name: Fuel Processing Technology
+Normalized venue name: fuel process technol
+Journal ID mapped to venue name: 06ADC3E0
+Conference series ID mapped to venue name: 
+Paper rank: 19458
+
+
+Recommend1: Support and water effects on palladium based methane combustion catalysts
+Paper ID: 79C43C23
+Original paper title: Support and water effects on palladium based methane combustion catalysts
+Normalized paper title: support and water effects on palladium based methane combustion catalysts
+Paper publish year: 2001
+Paper publish date: 2001/02/28
+Paper Document Object Identifier (DOI): 10.1016/S0926-860X(00)00783-3
+Original venue name: Applied Catalysis A-general
+Normalized venue name: appl catal a gen
+Journal ID mapped to venue name: 05047B59
+Conference series ID mapped to venue name: 
+Paper rank: 18884
+
+
+Recommend2: Combustion of methane over palladium catalyst in the presence of inorganic compounds: inhibition and deactivation phenomena
+Paper ID: 7AA4FBA2
+Original paper title: Combustion of methane over palladium catalyst in the presence of inorganic compounds: inhibition and deactivation phenomena
+Normalized paper title: combustion of methane over palladium catalyst in the presence of inorganic compounds inhibition and deactivation phenomena
+Paper publish year: 2004
+Paper publish date: 2004/01/28
+Paper Document Object Identifier (DOI): 10.1016/S0926-3373(03)00328-X
+Original venue name: Applied Catalysis B-environmental
+Normalized venue name: appl catal b environ
+Journal ID mapped to venue name: 08015DE2
+Conference series ID mapped to venue name: 
+Paper rank: 18853
+
+
+Recommend3: Experimental and kinetic study of methane combustion with water over copper catalyst at low-temperature
+Paper ID: 32698BEE
+Original paper title: Experimental and kinetic study of methane combustion with water over copper catalyst at low-temperature
+Normalized paper title: experimental and kinetic study of methane combustion with water over copper catalyst at low temperature
+Paper publish year: 2015
+Paper publish date: 2015/10/31
+Paper Document Object Identifier (DOI): 10.1016/j.enconman.2015.06.076
+Original venue name: Energy Conversion and Management
+Normalized venue name: energ conv manage
+Journal ID mapped to venue name: 064BE762
+Conference series ID mapped to venue name: 
+Paper rank: 19527
+
+
+Recommend4: Low-concentration methane combustion over a Cu/γ-Al2O3 catalyst: effects of water
+Paper ID: 780332D0
+Original paper title: Low-concentration methane combustion over a Cu/γ-Al2O3 catalyst: effects of water
+Normalized paper title: low concentration methane combustion over a cu γ al2o3 catalyst effects of water
+Paper publish year: 2015
+Paper publish date: 2015/02/11
+Paper Document Object Identifier (DOI): 10.1039/C5RA00633C
+Original venue name: 
+Normalized venue name: 
+Journal ID mapped to venue name: 
+Conference series ID mapped to venue name: 
+Paper rank: 19438
+
+
+Recommend5: Deactivation of Pd Catalysts by Water during Low Temperature Methane Oxidation Relevant to Natural Gas Vehicle Converters
+Paper ID: 7C7F1BA4
+Original paper title: Deactivation of Pd Catalysts by Water during Low Temperature Methane Oxidation Relevant to Natural Gas Vehicle Converters
+Normalized paper title: deactivation of pd catalysts by water during low temperature methane oxidation relevant to natural gas vehicle converters
+Paper publish year: 2015
+Paper publish date: 2015/03/31
+Paper Document Object Identifier (DOI): 10.3390/catal5020561
+Original venue name: 
+Normalized venue name: 
+Journal ID mapped to venue name: 
+Conference series ID mapped to venue name: 
+Paper rank: 19443
+
+
+Recommend6: Effect of periodic lean rich switch on methane conversion over a Ce Zr promoted Pd Rh Al2O3 catalyst in the exhausts of natural gas vehicles
+Paper ID: 7BC13C3A
+Original paper title: Effect of periodic lean/rich switch on methane conversion over a Ce–Zr promoted Pd-Rh/Al2O3 catalyst in the exhausts of natural gas vehicles
+Normalized paper title: effect of periodic lean rich switch on methane conversion over a ce zr promoted pd rh al2o3 catalyst in the exhausts of natural gas vehicles
+Paper publish year: 2012
+Paper publish date: 2012/05/30
+Paper Document Object Identifier (DOI): 10.1016/j.apcatb.2012.02.025
+Original venue name: Applied Catalysis B-environmental
+Normalized venue name: appl catal b environ
+Journal ID mapped to venue name: 08015DE2
+Conference series ID mapped to venue name: 
+Paper rank: 19406
+
+
+Recommend7: Hydrothermal Aging Induced Changes in Washcoats of Commercial Three Way Catalysts
+Paper ID: 7C5CF25E
+Original paper title: Hydrothermal Aging-Induced Changes in Washcoats of Commercial Three-Way Catalysts
+Normalized paper title: hydrothermal aging induced changes in washcoats of commercial three way catalysts
+Paper publish year: 2013
+Paper publish date: 2013/03/07
+Paper Document Object Identifier (DOI): 10.1007/s11244-013-9974-8
+Original venue name: Topics in Catalysis
+Normalized venue name: topic catalysis
+Journal ID mapped to venue name: 0A825421
+Conference series ID mapped to venue name: 
+Paper rank: 19360
+
+
+Recommend8: Methane Catalytic Combustion over Hierarchical Pd CeO2 Si Al2O3 Effect of the Presence of Water
+Paper ID: 7F704B9F
+Original paper title: Methane Catalytic Combustion over Hierarchical Pd@CeO2/Si‐Al2O3: Effect of the Presence of Water
+Normalized paper title: methane catalytic combustion over hierarchical pd ceo2 si al2o3 effect of the presence of water
+Paper publish year: 2015
+Paper publish date: 2015/07/13
+Paper Document Object Identifier (DOI): 10.1002/cctc.201402717
+Original venue name: Chemcatchem
+Normalized venue name: chemcatchem
+Journal ID mapped to venue name: 0C50FA5A
+Conference series ID mapped to venue name: 
+Paper rank: 17508

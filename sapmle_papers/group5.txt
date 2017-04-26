@@ -1,0 +1,138 @@
+Paper0: Mathematical modelling of metabolism
+二选一
+Paper ID: 7F9469CB
+Original paper title: Mathematical modelling of metabolism
+Normalized paper title: mathematical modelling of metabolism
+Paper publish year: 2000
+Paper publish date: 2000/12/31
+Paper Document Object Identifier (DOI): 10.1016/S1369-5266(00)80073-4
+Original venue name: Current Opinion in Plant Biology
+Normalized venue name: curr opin plant biol
+Journal ID mapped to venue name: 042B7896
+Conference series ID mapped to venue name: 
+Paper rank: 18468
+Paper ID: 7BD1B8F3
+Original paper title: Mathematical modelling of metabolism
+Normalized paper title: mathematical modelling of metabolism
+Paper publish year: 2000
+Paper publish date: 2000/04/01
+Paper Document Object Identifier (DOI): 10.1016/S0958-1669(00)00079-3
+Original venue name: Current Opinion in Biotechnology
+Normalized venue name: curr opin biotechnol
+Journal ID mapped to venue name: 016D4B66
+Conference series ID mapped to venue name: 
+Paper rank: 18008
+
+
+Recommend1: Mathematical models of metabolic pathways
+二选一
+Paper ID: 799A4E08
+Original paper title: Mathematical models of metabolic pathways
+Normalized paper title: mathematical models of metabolic pathways
+Paper publish year: 1999
+Paper publish date: 1999/04/01
+Paper Document Object Identifier (DOI): 10.1016/S0958-1669(99)80025-1
+Original venue name: Current Opinion in Biotechnology
+Normalized venue name: curr opin biotechnol
+Journal ID mapped to venue name: 016D4B66
+Conference series ID mapped to venue name: 
+Paper rank: 18320
+Paper ID: 02B48E80
+Original paper title: MATHEMATICAL MODELING OF METABOLIC PATHWAYS
+Normalized paper title: mathematical modeling of metabolic pathways
+Paper publish year: 2008
+Paper publish date: 
+Paper Document Object Identifier (DOI): 
+Original venue name: 
+Normalized venue name: 
+Journal ID mapped to venue name: 
+Conference series ID mapped to venue name: 
+Paper rank: 19430
+
+
+Recommend2: Metabolic modeling of microbial strains in silico
+Paper ID: 7FC37A14
+Original paper title: Metabolic modeling of microbial strains in silico
+Normalized paper title: metabolic modeling of microbial strains in silico
+Paper publish year: 2001
+Paper publish date: 2001/01/03
+Paper Document Object Identifier (DOI): 10.1016/S0968-0004(00)01754-0
+Original venue name: Trends in Biochemical Sciences
+Normalized venue name: trends biochem sci
+Journal ID mapped to venue name: 081EC135
+Conference series ID mapped to venue name: 
+Paper rank: 16578
+
+
+Recommend3: Metabolic Flux Balancing: Basic Concepts, Scientiﬁc and Practical Use
+Paper ID: 7AEB5F15
+Original paper title: Metabolic Flux Balancing: Basic Concepts, Scientific and Practical Use
+Normalized paper title: metabolic flux balancing basic concepts scientific and practical use
+Paper publish year: 1994
+Paper publish date: 1994/10/01
+Paper Document Object Identifier (DOI): 10.1038/nbt1094-994
+Original venue name: Nature Biotechnology
+Normalized venue name: bio technology
+Journal ID mapped to venue name: 06602205
+Conference series ID mapped to venue name: 
+Paper rank: 16178
+
+
+Recommend4: Advances in flux balance analysis
+Paper ID: 78C3AC6B
+Original paper title: Advances in flux balance analysis
+Normalized paper title: advances in flux balance analysis
+Paper publish year: 2003
+Paper publish date: 2003/10/31
+Paper Document Object Identifier (DOI): 10.1016/j.copbio.2003.08.001
+Original venue name: Current Opinion in Biotechnology
+Normalized venue name: curr opin biotechnol
+Journal ID mapped to venue name: 016D4B66
+Conference series ID mapped to venue name: 
+Paper rank: 16771
+
+
+Recommend5: The effects of alternate optimal solutions in constraint based genome scale metabolic models
+too slow to find in MAG
+
+
+Recommend6: Stoichiometric flux balance models quantitatively predict growth and metabolic by product secretion in wild type Escherichia coli W3110
+Paper ID: 7FC8BB2F
+Original paper title: Stoichiometric flux balance models quantitatively predict growth and metabolic by-product secretion in wild-type Escherichia coli W3110.
+Normalized paper title: stoichiometric flux balance models quantitatively predict growth and metabolic by product secretion in wild type escherichia coli w3110
+Paper publish year: 1994
+Paper publish date: 1994/10/01
+Paper Document Object Identifier (DOI): 
+Original venue name: Applied and Environmental Microbiology
+Normalized venue name: aem
+Journal ID mapped to venue name: 096E5F90
+Conference series ID mapped to venue name: 
+Paper rank: 16362
+
+
+Recommend7: Theory for the systemic definition of metabolic pathways and their use in interpreting metabolic function from a pathway oriented perspective
+Paper ID: 797386E3
+Original paper title: Theory for the Systemic Definition of Metabolic Pathways and their use in Interpreting Metabolic Function from a Pathway-Oriented Perspective
+Normalized paper title: theory for the systemic definition of metabolic pathways and their use in interpreting metabolic function from a pathway oriented perspective
+Paper publish year: 2000
+Paper publish date: 2000/04/07
+Paper Document Object Identifier (DOI): 10.1006/jtbi.2000.1073
+Original venue name: Journal of Theoretical Biology
+Normalized venue name: j theor biol
+Journal ID mapped to venue name: 06899EEC
+Conference series ID mapped to venue name: 
+Paper rank: 16209
+
+
+Recommend8: A general definition of metabolic pathways useful for systematic organization and analysis of complex metabolic networks
+Paper ID: 68CEFCE1
+Original paper title: A general definition of metabolic pathways useful for systematic organizationand analysis of complex metabolic networks
+Normalized paper title: a general definition of metabolic pathways useful for systematic organizationand analysis of complex metabolic networks
+Paper publish year: 2000
+Paper publish date: 2000/03/01
+Paper Document Object Identifier (DOI): 
+Original venue name: Nature Biotechnology
+Normalized venue name: bio technology
+Journal ID mapped to venue name: 06602205
+Conference series ID mapped to venue name: 
+Paper rank: 15888

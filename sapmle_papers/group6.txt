@@ -1,0 +1,114 @@
+Paper0: Faster r cnn Towards real time object detection with region proposal networks
+Paper ID: 26212C3F
+Original paper title: Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks
+Normalized paper title: faster r cnn towards real time object detection with region proposal networks
+Paper publish year: 2015
+Paper publish date: 2015/06/04
+Paper Document Object Identifier (DOI): 
+Original venue name: neural information processing systems
+Normalized venue name: nips
+Journal ID mapped to venue name: 
+Conference series ID mapped to venue name: 43319DD4
+Paper rank: 19555
+
+
+Recommend1: Faster R CNN: Towards Real Time Object Detection with Region Proposal Networks
+The same with paper0?
+
+
+Recommend2: You only look once Unified real time object detection
+Paper ID: 5872106C
+Original paper title: You Only Look Once: Unified, Real-Time Object Detection
+Normalized paper title: you only look once unified real time object detection
+Paper publish year: 2015
+Paper publish date: 2015/06/08
+Paper Document Object Identifier (DOI): 
+Original venue name: 
+Normalized venue name: 
+Journal ID mapped to venue name: 
+Conference series ID mapped to venue name: 
+Paper rank: 19555
+
+
+Recommend3: Rich feature hierarchies for accurate object detection and semantic segmentation
+Paper ID: 7D53354D
+Original paper title: Rich Feature Hierarchies for Accurate Object Detection and Semantic Segmentation
+Normalized paper title: rich feature hierarchies for accurate object detection and semantic segmentation
+Paper publish year: 2014
+Paper publish date: 2014/06/23
+Paper Document Object Identifier (DOI): 10.1109/CVPR.2014.81
+Original venue name: computer vision and pattern recognition
+Normalized venue name: cvpr
+Journal ID mapped to venue name: 
+Conference series ID mapped to venue name: 45083D2F
+Paper rank: 17194
+
+
+Recommend4: Spatial pyramid pooling in deep convolutional networks for visual recognition
+Paper ID: 81E64818
+Original paper title: Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition
+Normalized paper title: spatial pyramid pooling in deep convolutional networks for visual recognition
+Paper publish year: 2014
+Paper publish date: 2014/09/06
+Paper Document Object Identifier (DOI): 10.1007/978-3-319-10578-9_23
+Original venue name: european conference on computer vision
+Normalized venue name: eccv
+Journal ID mapped to venue name: 
+Conference series ID mapped to venue name: 43001016
+Paper rank: 18958
+
+
+Recommend5: Deep residual learning for image recognition
+Paper ID: 82D19FB7
+Original paper title: Deep Residual Learning for Image Recognition
+Normalized paper title: deep residual learning for image recognition
+Paper publish year: 2015
+Paper publish date: 2015/12/10
+Paper Document Object Identifier (DOI): 
+Original venue name: 
+Normalized venue name: 
+Journal ID mapped to venue name: 
+Conference series ID mapped to venue name: 
+Paper rank: 19555
+
+
+Recommend6: SSD Single shot multibox detector
+Paper ID: 82B8BF4B
+Original paper title: SSD: Single Shot MultiBox Detector
+Normalized paper title: ssd single shot multibox detector
+Paper publish year: 2015
+Paper publish date: 2015/12/08
+Paper Document Object Identifier (DOI): 
+Original venue name: 
+Normalized venue name: 
+Journal ID mapped to venue name: 
+Conference series ID mapped to venue name: 
+Paper rank: 19555
+
+
+Recommend7: Selective search for object recognition
+Paper ID: 7C751CA9
+Original paper title: Selective Search for Object Recognition
+Normalized paper title: selective search for object recognition
+Paper publish year: 2013
+Paper publish date: 2013/09/01
+Paper Document Object Identifier (DOI): 10.1007/s11263-013-0620-5
+Original venue name: International Journal of Computer Vision
+Normalized venue name: ijcv
+Journal ID mapped to venue name: 0185ADDC
+Conference series ID mapped to venue name: 
+Paper rank: 17603
+
+
+Recommend8: Spatial pyramid pooling in deep convolutional networks for visual recognition
+Paper ID: 81E64818
+Original paper title: Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition
+Normalized paper title: spatial pyramid pooling in deep convolutional networks for visual recognition
+Paper publish year: 2014
+Paper publish date: 2014/09/06
+Paper Document Object Identifier (DOI): 10.1007/978-3-319-10578-9_23
+Original venue name: european conference on computer vision
+Normalized venue name: eccv
+Journal ID mapped to venue name: 
+Conference series ID mapped to venue name: 43001016
+Paper rank: 18958

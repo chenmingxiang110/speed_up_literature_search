@@ -1,0 +1,103 @@
+Paper0: Optimal Bundling of Technological Products with Network Externality
+Paper ID: 7EEBA1EB
+Original paper title: Optimal Bundling of Technological Products with Network Externality
+Normalized paper title: optimal bundling of technological products with network externality
+Paper publish year: 2010
+Paper publish date: 2010/12/01
+Paper Document Object Identifier (DOI): 
+Original venue name: Management Science
+Normalized venue name: manage sci
+Journal ID mapped to venue name: 01FC784F
+Conference series ID mapped to venue name: 
+Paper rank: 19080
+ 
+
+Recommend1: MULTIPRODUCT MONOPOLY BUNDLING
+not found in MAG
+
+
+Recommend2: Multiproduct Nonlinear Pricing
+Paper ID: 77A489CF
+Original paper title: Multiproduct Nonlinear Pricing
+Normalized paper title: multiproduct nonlinear pricing
+Paper publish year: 1996
+Paper publish date: 1996
+Paper Document Object Identifier (DOI): 
+Original venue name: Econometrica
+Normalized venue name: econometrica
+Journal ID mapped to venue name: 05B0AD9A
+Conference series ID mapped to venue name: 
+Paper rank: 14954
+
+
+Recommend3: Gaussian Demand and Commodity Bundling
+Paper ID: 7B8DC3A1
+Original paper title: Gaussian Demand and Commodity Bundling
+Normalized paper title: gaussian demand and commodity bundling
+Paper publish year: 1984
+Paper publish date: 1984
+Paper Document Object Identifier (DOI): 
+Original venue name: The Journal of Business
+Normalized venue name: j bus
+Journal ID mapped to venue name: 03D3FA09
+Conference series ID mapped to venue name: 
+Paper rank: 16031
+
+
+Recommend4: A Graphical Analysis of Bundling
+Paper ID: 77BD2EA3
+Original paper title: A Graphical Analysis of Bundling
+Normalized paper title: a graphical analysis of bundling
+Paper publish year: 1995
+Paper publish date: 1995
+Paper Document Object Identifier (DOI): 
+Original venue name: The Journal of Business
+Normalized venue name: j bus
+Journal ID mapped to venue name: 03D3FA09
+Conference series ID mapped to venue name: 
+Paper rank: 16893
+
+
+Recommend5: Bundling Information Goods: Pricing, Profits, and Efficiency
+Paper ID: 7A5A038A
+Original paper title: Bundling Information Goods: Pricing, Profits, and Efficiency
+Normalized paper title: bundling information goods pricing profits and efficiency
+Paper publish year: 1999
+Paper publish date: 1999/12/01
+Paper Document Object Identifier (DOI): 
+Original venue name: Management Science
+Normalized venue name: manage sci
+Journal ID mapped to venue name: 01FC784F
+Conference series ID mapped to venue name: 
+Paper rank: 16128
+
+
+Recommend6:  Multiproduct Monopoly, Commodity Bundling, and Correlation of Values
+Paper ID: 7C56ECEF
+Original paper title: Multiproduct Monopoly, Commodity Bundling, and Correlation of Values
+Normalized paper title: multiproduct monopoly commodity bundling and correlation of values
+Paper publish year: 1989
+Paper publish date: 1989
+Paper Document Object Identifier (DOI): 
+Original venue name: Quarterly Journal of Economics
+Normalized venue name: quart j econ
+Journal ID mapped to venue name: 0C26A825
+Conference series ID mapped to venue name: 
+Paper rank: 14194
+
+
+Recommend7: the same with 5, check again
+
+
+Recommend8: Commodity Bundling and the Burden of Monopoly
+Paper ID: 769EC846
+Original paper title: Commodity Bundling and the Burden of Monopoly
+Normalized paper title: commodity bundling and the burden of monopoly
+Paper publish year: 1976
+Paper publish date: 1976
+Paper Document Object Identifier (DOI): 10.2307/1886045
+Original venue name: Quarterly Journal of Economics
+Normalized venue name: quart j econ
+Journal ID mapped to venue name: 0C26A825
+Conference series ID mapped to venue name: 
+Paper rank: 13210

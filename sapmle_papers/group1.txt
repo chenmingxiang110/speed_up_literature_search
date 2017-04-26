@@ -1,0 +1,94 @@
+paper0: Large area ultrathin films of reduced graphene oxide as a transparent and flexible electronic material
+Paper ID: 7D3F7B4E
+Original paper title: Large-area ultrathin films of reduced graphene oxide as a transparent and flexible electronic material.
+Normalized paper title: large area ultrathin films of reduced graphene oxide as a transparent and flexible electronic material
+Paper publish year: 2008
+Paper publish date: 2008/05/01
+Paper Document Object Identifier (DOI): 10.1038/nnano.2008.83
+Original venue name: Nature Nanotechnology
+Normalized venue name: nat nanotechnol
+Journal ID mapped to venue name: 00775C57
+Conference series ID mapped to venue name: 
+Paper rank: 14730
+
+
+Recommend1: Graphene oxide as a chemically tunable platform for optical applications
+Paper ID: 7F234ED2
+Original paper title: Graphene oxide as a chemically tunable platform for optical applications
+Normalized paper title: graphene oxide as a chemically tunable platform for optical applications
+Paper publish year: 2010
+Paper publish date: 2010/12/01
+Paper Document Object Identifier (DOI): 10.1038/nchem.907
+Original venue name: Nature Chemistry
+Normalized venue name: nat chem
+Journal ID mapped to venue name: 0C0D393C
+Conference series ID mapped to venue name: 
+Paper rank: 17062
+
+
+Recommend2: Synthesis of graphene based nanosheets via chemical reduction of exfoliated graphite oxide
+not found in MAG
+
+
+Recommend3: The chemistry of graphene oxide
+Paper ID: 7F48D384
+Original paper title: The chemistry of graphene oxide
+Normalized paper title: the chemistry of graphene oxide
+Paper publish year: 2009
+Paper publish date: 2009/12/14
+Paper Document Object Identifier (DOI): 10.1039/B917103G
+Original venue name: Chemical Society Reviews
+Normalized venue name: chem soc rev
+Journal ID mapped to venue name: 0004D416
+Conference series ID mapped to venue name: 
+Paper rank: 14695
+
+
+Recommend4: Improved synthesis of graphene oxide
+Paper ID: 7F9931B5
+Original paper title: Improved synthesis of graphene oxide.
+Normalized paper title: improved synthesis of graphene oxide
+Paper publish year: 2010
+Paper publish date: 2010/08/24
+Paper Document Object Identifier (DOI): 10.1021/nn1006368
+Original venue name: ACS Nano
+Normalized venue name: acs nano
+Journal ID mapped to venue name: 08ABCD39
+Conference series ID mapped to venue name: 
+Paper rank: 15620
+
+
+Recommend5: Electronic transport properties of individual chemically reduced graphene oxide sheets
+not found in MAG
+
+
+Recommend6: Atomic and electronic structure of graphene oxide
+not found in MAG
+
+
+Recommend7: Chemically derived graphene oxide towards large area thin film electronics and optoelectronics
+Paper ID: 7A4F68C9
+Original paper title: Chemically Derived Graphene Oxide: Towards Large‐Area Thin‐Film Electronics and Optoelectronics
+Normalized paper title: chemically derived graphene oxide towards large area thin film electronics and optoelectronics
+Paper publish year: 2010
+Paper publish date: 2010/06/11
+Paper Document Object Identifier (DOI): 10.1002/adma.200903689
+Original venue name: Advanced Materials
+Normalized venue name: advan mater
+Journal ID mapped to venue name: 05EC0051
+Conference series ID mapped to venue name: 
+Paper rank: 15979
+
+
+Recommend8: A review of chemical vapour deposition of graphene on copper
+Paper ID: 808DEDBE
+Original paper title: A review of chemical vapour deposition of graphene on copper
+Normalized paper title: a review of chemical vapour deposition of graphene on copper
+Paper publish year: 2011
+Paper publish date: 2011/02/22
+Paper Document Object Identifier (DOI): 10.1039/C0JM02126A
+Original venue name: Journal of Materials Chemistry
+Normalized venue name: j mater chem
+Journal ID mapped to venue name: 02B34F8C
+Conference series ID mapped to venue name: 
+Paper rank: 16883

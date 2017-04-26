@@ -1,0 +1,124 @@
+Paper0: Magnetic nanomaterials for hyperthermia based therapy and controlled drug delivery
+Paper ID: 78BB2986
+Original paper title: Magnetic Nanomaterials for Hyperthermia-based Therapy and Controlled Drug Delivery
+Normalized paper title: magnetic nanomaterials for hyperthermia based therapy and controlled drug delivery
+Paper publish year: 2011
+Paper publish date: 2011/08/14
+Paper Document Object Identifier (DOI): 10.1016/j.addr.2011.03.008
+Original venue name: Advanced Drug Delivery Reviews
+Normalized venue name: advan drug delivery rev
+Journal ID mapped to venue name: 06D22C70
+Conference series ID mapped to venue name: 
+Paper rank: 17619
+
+
+Recommend1: Magnetic fluid hyperthermia focus on superparamagnetic iron oxide nanoparticles
+Paper ID: 781710BE
+Original paper title: Magnetic fluid hyperthermia: Focus on superparamagnetic iron oxide nanoparticles
+Normalized paper title: magnetic fluid hyperthermia focus on superparamagnetic iron oxide nanoparticles
+Paper publish year: 2011
+Paper publish date: 2011/08/10
+Paper Document Object Identifier (DOI): 10.1016/j.cis.2011.04.003
+Original venue name: Advances in Colloid and Interface Science
+Normalized venue name: advan colloid interface sci
+Journal ID mapped to venue name: 01AF041F
+Conference series ID mapped to venue name: 
+Paper rank: 18026
+
+
+Recommend2: Heating efficiency in magnetic nanoparticle hyperthermia3
+Paper ID: 7C38952F
+Original paper title: Heating efficiency in magnetic nanoparticle hyperthermia
+Normalized paper title: heating efficiency in magnetic nanoparticle hyperthermia
+Paper publish year: 2014
+Paper publish date: 2014/03/31
+Paper Document Object Identifier (DOI): 10.1016/j.jmmm.2013.11.006
+Original venue name: Journal of Magnetism and Magnetic Materials
+Normalized venue name: j magn magn mater
+Journal ID mapped to venue name: 0037AEF2
+Conference series ID mapped to venue name: 
+Paper rank: 18842
+
+
+Recommend3: Exchange coupled magnetic nanoparticles for efficient heat induction
+Paper ID: 76A698A7
+Original paper title: Exchange-coupled magnetic nanoparticles for efficient heat induction.
+Normalized paper title: exchange coupled magnetic nanoparticles for efficient heat induction
+Paper publish year: 2011
+Paper publish date: 2011/07/01
+Paper Document Object Identifier (DOI): 10.1038/nnano.2011.95
+Original venue name: Nature Nanotechnology
+Normalized venue name: nat nanotechnol
+Journal ID mapped to venue name: 00775C57
+Conference series ID mapped to venue name: 
+Paper rank: 17317
+
+
+Recommend4: Magnetic particle hyperthermia nanoparticle magnetism and materials development for cancer therapy
+Paper ID: 7BD48B92
+Original paper title: Magnetic particle hyperthermia: nanoparticle magnetism and materials development for cancer therapy
+Normalized paper title: magnetic particle hyperthermia nanoparticle magnetism and materials development for cancer therapy
+Paper publish year: 2006
+Paper publish date: 2006/09/27
+Paper Document Object Identifier (DOI): 10.1088/0953-8984/18/38/S26
+Original venue name: Journal of Physics: Condensed Matter
+Normalized venue name: j phys condens matter
+Journal ID mapped to venue name: 0B61459E
+Conference series ID mapped to venue name: 
+Paper rank: 17211
+
+
+Recommend5: Theranostic magnetic nanoparticles
+Paper ID: 79605183
+Original paper title: Theranostic magnetic nanoparticles.
+Normalized paper title: theranostic magnetic nanoparticles
+Paper publish year: 2011
+Paper publish date: 2011/10/18
+Paper Document Object Identifier (DOI): 10.1021/ar200085c
+Original venue name: Accounts of Chemical Research
+Normalized venue name: account chem res
+Journal ID mapped to venue name: 08AA4C65
+Conference series ID mapped to venue name: 
+Paper rank: 17525
+
+
+Recommend6: Magnetic nanoparticle based therapeutic agents for thermo chemotherapy treatment of cancer
+Paper ID: 80B6000D
+Original paper title: Magnetic nanoparticle-based therapeutic agents for thermo-chemotherapy treatment of cancer
+Normalized paper title: magnetic nanoparticle based therapeutic agents for thermo chemotherapy treatment of cancer
+Paper publish year: 2014
+Paper publish date: 2014/09/26
+Paper Document Object Identifier (DOI): 10.1039/C4NR03482A
+Original venue name: Nanoscale
+Normalized venue name: nanoscale
+Journal ID mapped to venue name: 0161B8C8
+Conference series ID mapped to venue name: 
+Paper rank: 19203
+
+
+Recommend7: Clinical applications of magnetic nanoparticles for hyperthermia
+Paper ID: 777D10DC
+Original paper title: Clinical applications of magnetic nanoparticles for hyperthermia
+Normalized paper title: clinical applications of magnetic nanoparticles for hyperthermia
+Paper publish year: 2009
+Paper publish date: 2009/07/09
+Paper Document Object Identifier (DOI): 
+Original venue name: International Journal of Hyperthermia
+Normalized venue name: int j hyperther
+Journal ID mapped to venue name: 066683C3
+Conference series ID mapped to venue name: 
+Paper rank: 15881
+
+
+Recommend8: Water soluble iron oxide nanocubes with high values of specific absorption rate for cancer cell hyperthermia treatment
+Paper ID: 7B1FB070
+Original paper title: Water-soluble iron oxide nanocubes with high values of specific absorption rate for cancer cell hyperthermia treatment.
+Normalized paper title: water soluble iron oxide nanocubes with high values of specific absorption rate for cancer cell hyperthermia treatment
+Paper publish year: 2012
+Paper publish date: 2012/04/24
+Paper Document Object Identifier (DOI): 10.1021/nn2048137
+Original venue name: ACS Nano
+Normalized venue name: acs nano
+Journal ID mapped to venue name: 08ABCD39
+Conference series ID mapped to venue name: 
+Paper rank: 18198
