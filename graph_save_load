@@ -1,0 +1,3 @@
+Graph = snap.GenRndGnm(snap.PNGraph, 1000, 10000)
+snap.SaveEdgeList(Graph, "PNGraph.edges")
+Graph = snap.LoadEdgeList(snap.PNGraph, "PNGraph.edges", 0, 1, '\t')
