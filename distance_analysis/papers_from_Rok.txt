@@ -1,0 +1,892 @@
+group1: similarity
+1 Scalable Nearest Neighbor Sparse Graph Approximation by Exploiting Graph Structure
+not found
+
+
+2 Off the Beaten Path Let s Replace Term Based Retrieval with k NN Search
+not found
+
+ 
+3 LSH Ensemble Internet Scale Domain Search
+not found
+
+
+4 Query specific signature selection for efficient k nearest neighbour approximation
+not found
+
+
+5 Efficient K Nearest Neighbor Graph Construction for Generic Similarity Measures
+Paper ID: 7DC473B3
+Original paper title: Efficient k-nearest neighbor graph construction for generic similarity measures
+Normalized paper title: efficient k nearest neighbor graph construction for generic similarity measures
+Paper publish year: 2011
+Paper publish date: 2011/03/28
+Paper Document Object Identifier (DOI): 10.1145/1963405.1963487
+Original venue name: international world wide web conferences
+Normalized venue name: www
+Journal ID mapped to venue name: 07B3FFB5
+Conference series ID mapped to venue name: 43ABF249
+Paper rank: 18625
+
+
+6 Scaling KNN Computation over Large Graphs on a PC
+Paper ID: 807766B5
+Original paper title: Scaling KNN computation over large graphs on a PC
+Normalized paper title: scaling knn computation over large graphs on a pc
+Paper publish year: 2014
+Paper publish date: 2014/12/08
+Paper Document Object Identifier (DOI): 10.1145/2678508.2678513
+Original venue name: 
+Normalized venue name: 
+Journal ID mapped to venue name: 
+Conference series ID mapped to venue name: 
+Paper rank: 19318
+
+
+7 EFANNA : An Extremely Fast Approximate Nearest Neighbor Search Algorithm Based on kNN Graph
+not found
+
+
+8 A novel algorithm for scalable k nearest neighbour graph construction
+Paper ID: 3AA280A8
+Original paper title: A novel algorithm for scalable k-nearest neighbour graph construction
+Normalized paper title: a novel algorithm for scalable k nearest neighbour graph construction
+Paper publish year: 2015
+Paper publish date: 2015/07/22
+Paper Document Object Identifier (DOI): 10.1177/0165551515594728
+Original venue name: Journal of Information Science
+Normalized venue name: journal of information science
+Journal ID mapped to venue name: 041B880A
+Conference series ID mapped to venue name: 
+Paper rank: 19555
+
+
+9 Fast Online k nn Graph Building
+not found
+
+
+10 Building k nn Graphs From Large Text Data
+Paper ID: 791D04B8
+Original paper title: Building k-nn graphs from large text data
+Normalized paper title: building k nn graphs from large text data
+Paper publish year: 2014
+Paper publish date: 2014/10
+Paper Document Object Identifier (DOI): 10.1109/BigData.2014.7004276
+Original venue name: 
+Normalized venue name: 
+Journal ID mapped to venue name: 
+Conference series ID mapped to venue name: 
+Paper rank: 19338
+
+
+11 Scalable k NN based text clustering
+Paper ID: 83321DDD
+Original paper title: Scalable k-NN based text clustering
+Normalized paper title: scalable k nn based text clustering
+Paper publish year: 2015
+Paper publish date: 2015/10
+Paper Document Object Identifier (DOI): 
+Original venue name: 
+Normalized venue name: 
+Journal ID mapped to venue name: 
+Conference series ID mapped to venue name: 
+Paper rank: 19525
+
+
+
+12 Implementing Data Cubes Efficiently
+Paper ID: 7FC1B499
+Original paper title: Implementing data cubes efficiently
+Normalized paper title: implementing data cubes efficiently
+Paper publish year: 1996
+Paper publish date: 1996/06/01
+Paper Document Object Identifier (DOI): 
+Original venue name: international conference on management of data
+Normalized venue name: sigmod
+Journal ID mapped to venue name: 02D4EDCF
+Conference series ID mapped to venue name: 460A7036
+Paper rank: 14462
+
+
+13 Efficient Query Evaluation using a Two Level Retrieval Process
+Paper ID: 806CBF3E
+Original paper title: Efficient query evaluation using a two-level retrieval process
+Normalized paper title: efficient query evaluation using a two level retrieval process
+Paper publish year: 2003
+Paper publish date: 2003/11/03
+Paper Document Object Identifier (DOI): 10.1145/956863.956944
+Original venue name: conference on information and knowledge management
+Normalized venue name: cikm
+Journal ID mapped to venue name: 
+Conference series ID mapped to venue name: 472C6E2D
+Paper rank: 17073
+
+
+group2: biolink prediction
+1 Inductive matrix completion for predicting gene disease associations
+Paper ID: 7E94E8FA
+Original paper title: Inductive matrix completion for predicting gene-disease associations.
+Normalized paper title: inductive matrix completion for predicting gene disease associations
+Paper publish year: 2014
+Paper publish date: 2014/06/15
+Paper Document Object Identifier (DOI): 10.1093/bioinformatics/btu269
+Original venue name: Bioinformatics
+Normalized venue name: bioinformatics
+Journal ID mapped to venue name: 031F7D94
+Conference series ID mapped to venue name: 
+Paper rank: 19369
+
+
+2 Using PPI network autocorrelation in hierarchical multi label classification trees for gene function prediction
+Paper ID: 814742A3
+Original paper title: Using PPI network autocorrelation in hierarchical multi-label classification trees for gene function prediction
+Normalized paper title: using ppi network autocorrelation in hierarchical multi label classification trees for gene function prediction
+Paper publish year: 2013
+Paper publish date: 2013/09/26
+Paper Document Object Identifier (DOI): 10.1186/1471-2105-14-285
+Original venue name: BMC Bioinformatics
+Normalized venue name: bmc bioinformatics
+Journal ID mapped to venue name: 012269E3
+Conference series ID mapped to venue name: 
+Paper rank: 19327
+
+
+3 Gene Function Prediction Based on the Gene Ontology Hierarchical Structure
+Paper ID: 79850161
+Original paper title: Gene Function Prediction Based on the Gene Ontology Hierarchical Structure
+Normalized paper title: gene function prediction based on the gene ontology hierarchical structure
+Paper publish year: 2014
+Paper publish date: 2014/09/05
+Paper Document Object Identifier (DOI): 10.1371/journal.pone.0107187
+Original venue name: PLOS ONE
+Normalized venue name: plos one
+Journal ID mapped to venue name: 0C101982
+Conference series ID mapped to venue name: 
+Paper rank: 19427
+
+
+4 A large scale evaluation of computational protein function prediction
+Paper ID: 7E364994
+Original paper title: A large-scale evaluation of computational protein function prediction
+Normalized paper title: a large scale evaluation of computational protein function prediction
+Paper publish year: 2013
+Paper publish date: 2013/03/01
+Paper Document Object Identifier (DOI): 10.1038/nmeth.2340
+Original venue name: Nature Methods
+Normalized venue name: nat methods
+Journal ID mapped to venue name: 079E7DE4
+Conference series ID mapped to venue name: 
+Paper rank: 17613
+
+
+group3: triangle counting
+1 Efficient Query Processing in Distributed Search Engines
+Paper ID: 79A2BC0B
+Original paper title: Efficient query processing in distributed search engines
+Normalized paper title: efficient query processing in distributed search engines
+Paper publish year: 2013
+Paper publish date: 2013/06/07
+Paper Document Object Identifier (DOI): 
+Original venue name: international acm sigir conference on research and development in information retrieval
+Normalized venue name: sigir
+Journal ID mapped to venue name: 006716A5
+Conference series ID mapped to venue name: 43FD776C
+Paper rank: 19549
+
+
+2 Improving the Performance of List Intersection
+Paper ID: 7F9C3A0C
+Original paper title: Improving the performance of list intersection
+Normalized paper title: improving the performance of list intersection
+Paper publish year: 2009
+Paper publish date: 2009/08/01
+Paper Document Object Identifier (DOI): 10.14778/1687627.1687722
+Original venue name: very large data bases
+Normalized venue name: vldb
+Journal ID mapped to venue name: 0215FD76
+Conference series ID mapped to venue name: 4390334E
+Paper rank: 18877
+
+
+3 SIMD Compression and the Intersection of Sorted Integers
+Paper ID: 7F06AAFB
+Original paper title: SIMD compression and the intersection of sorted integers
+Normalized paper title: simd compression and the intersection of sorted integers
+Paper publish year: 2014
+Paper publish date: 2014/01/24
+Paper Document Object Identifier (DOI): 10.1002/spe.2326
+Original venue name: Software - Practice and Experience
+Normalized venue name: spe
+Journal ID mapped to venue name: 07489CC9
+Conference series ID mapped to venue name: 
+Paper rank: 19382
+
+
+4 PATRIC: A Parallel Algorithm for Counting Triangles in Massive Networks
+not found
+
+
+5 Fast Set Intersection in Memory
+Paper ID: 8097648A
+Original paper title: Fast set intersection in memory
+Normalized paper title: fast set intersection in memory
+Paper publish year: 2011
+Paper publish date: 2011/01/01
+Paper Document Object Identifier (DOI): 
+Original venue name: very large data bases
+Normalized venue name: vldb
+Journal ID mapped to venue name: 0215FD76
+Conference series ID mapped to venue name: 4390334E
+Paper rank: 19242
+
+
+6 Fast Lists Intersection with Bloom Filter using Graphics Processing Units
+Paper ID: 790562D1
+Original paper title: Fast lists intersection with Bloom filter using graphics processing units
+Normalized paper title: fast lists intersection with bloom filter using graphics processing units
+Paper publish year: 2011
+Paper publish date: 2011/03/21
+Paper Document Object Identifier (DOI): 
+Original venue name: 
+Normalized venue name: 
+Journal ID mapped to venue name: 
+Conference series ID mapped to venue name: 
+Paper rank: 19218
+
+
+7 Posting List Intersection on Multicore Architectures
+Paper ID: 7FA0FD36
+Original paper title: Posting list intersection on multicore architectures
+Normalized paper title: posting list intersection on multicore architectures
+Paper publish year: 2011
+Paper publish date: 2011/07/24
+Paper Document Object Identifier (DOI): 
+Original venue name: international acm sigir conference on research and development in information retrieval
+Normalized venue name: sigir
+Journal ID mapped to venue name: 
+Conference series ID mapped to venue name: 43FD776C
+Paper rank: 19097
+
+
+8 FPGA Acceleration for Intersection Computation in Frequent Itemset Mining
+Paper ID: 78BE1439
+Original paper title: FPGA Acceleration for Intersection Computation in Frequent Itemset Mining
+Normalized paper title: fpga acceleration for intersection computation in frequent itemset mining
+Paper publish year: 2013
+Paper publish date: 2013/10
+Paper Document Object Identifier (DOI): 10.1109/CyberC.2013.95
+Original venue name: cyber-enabled distributed computing and knowledge discovery
+Normalized venue name: cyberc
+Journal ID mapped to venue name: 
+Conference series ID mapped to venue name: 437413E1
+Paper rank: 19555
+
+
+9 Bitlist New Full text Index for Low Space Cost and Efficient Keyword Search
+Paper ID: 75932925
+Original paper title: Bitlist: New full-text index for low space cost and efficient keyword search
+Normalized paper title: bitlist new full text index for low space cost and efficient keyword search
+Paper publish year: 2013
+Paper publish date: 2013
+Paper Document Object Identifier (DOI): 
+Original venue name: Proceedings of The Vldb Endowment
+Normalized venue name: pvldb
+Journal ID mapped to venue name: 0215FD76
+Conference series ID mapped to venue name: 
+Paper rank: 19555
+
+
+10 OPT A New Framework for Overlapped and Parallel Triangulation in Large scale Graphs
+Paper ID: 7CA06033
+Original paper title: OPT: a new framework for overlapped and parallel triangulation in large-scale graphs
+Normalized paper title: opt a new framework for overlapped and parallel triangulation in large scale graphs
+Paper publish year: 2014
+Paper publish date: 2014/06/18
+Paper Document Object Identifier (DOI): 
+Original venue name: international conference on management of data
+Normalized venue name: sigmod
+Journal ID mapped to venue name: 
+Conference series ID mapped to venue name: 460A7036
+Paper rank: 19382
+
+
+11 Counting Triangles and the Curse of the Last Reducer
+Paper ID: 7DD077F3
+Original paper title: Counting triangles and the curse of the last reducer
+Normalized paper title: counting triangles and the curse of the last reducer
+Paper publish year: 2011
+Paper publish date: 2011/03/28
+Paper Document Object Identifier (DOI): 10.1145/1963405.1963491
+Original venue name: international world wide web conferences
+Normalized venue name: www
+Journal ID mapped to venue name: 07B3FFB5
+Conference series ID mapped to venue name: 43ABF249
+Paper rank: 17848
+
+
+group4: anomaly detection
+1 Anomaly Detection for Discrete Sequences: A Survey
+Paper ID: 7985EB94
+Original paper title: Anomaly Detection for Discrete Sequences: A Survey
+Normalized paper title: anomaly detection for discrete sequences a survey
+Paper publish year: 2012
+Paper publish date: 2012/05
+Paper Document Object Identifier (DOI): 10.1109/TKDE.2010.235
+Original venue name: IEEE Transactions on Knowledge and Data Engineering
+Normalized venue name: tkde
+Journal ID mapped to venue name: 01D46A2B
+Conference series ID mapped to venue name: 
+Paper rank: 16252
+
+
+2 Rank Based Anomaly Detection Algorithms
+Paper ID: 081408B8
+Original paper title: Rank Based Anomaly Detection Algorithms
+Normalized paper title: rank based anomaly detection algorithms
+Paper publish year: 2013
+Paper publish date: 2013
+Paper Document Object Identifier (DOI): 
+Original venue name: 
+Normalized venue name: 
+Journal ID mapped to venue name: 
+Conference series ID mapped to venue name: 
+Paper rank: 17604
+
+
+3 Parameter Free Search of Time Series Discord
+Paper ID: 798AC8BA
+Original paper title: Parameter-Free Search of Time-Series Discord
+Normalized paper title: parameter free search of time series discord
+Paper publish year: 2013
+Paper publish date: 2013/01/01
+Paper Document Object Identifier (DOI): 
+Original venue name: Journal of Computer Science and Technology
+Normalized venue name: jcst
+Journal ID mapped to venue name: 09A08B9A
+Conference series ID mapped to venue name: 
+Paper rank: 19521
+
+
+4 Searching Data Streams for Variable Length Anomalies
+Paper ID: 7D27E951
+Original paper title: Searching data streams for variable length anomalies
+Normalized paper title: searching data streams for variable length anomalies
+Paper publish year: 2011
+Paper publish date: 2011/04
+Paper Document Object Identifier (DOI): 10.1109/INNOVATIONS.2011.5893836
+Original venue name: 
+Normalized venue name: 
+Journal ID mapped to venue name: 
+Conference series ID mapped to venue name: 
+Paper rank: 19379
+
+
+5 Anomaly Detection of Time Series
+Paper ID: 5F380295
+Original paper title: Anomaly detection of time series.
+Normalized paper title: anomaly detection of time series
+Paper publish year: 2010
+Paper publish date: 2010/05
+Paper Document Object Identifier (DOI): 
+Original venue name: 
+Normalized venue name: 
+Journal ID mapped to venue name: 
+Conference series ID mapped to venue name: 
+Paper rank: 19524
+
+
+6 Anomaly Detection: A Survey
+Paper ID: 7E850359
+Original paper title: Anomaly detection: A survey
+Normalized paper title: anomaly detection a survey
+Paper publish year: 2009
+Paper publish date: 2009/07/01
+Paper Document Object Identifier (DOI): 10.1145/1541880.1541882
+Original venue name: ACM Computing Surveys
+Normalized venue name: csur
+Journal ID mapped to venue name: 0969B0BC
+Conference series ID mapped to venue name: 
+Paper rank: 15391
+
+
+7 HOT SAX Finding the Most Unusual Time Series Subsequence: Algorithms and Applications
+Paper ID: 00FC4F6E
+Original paper title: HOT SAX: Finding the Most Unusual Time Series Subsequence: Algorithms and Applications
+Normalized paper title: hot sax finding the most unusual time series subsequence algorithms and applications
+Paper publish year: 2005
+Paper publish date: 
+Paper Document Object Identifier (DOI): 
+Original venue name: international conference on data mining
+Normalized venue name: icdm
+Journal ID mapped to venue name: 
+Conference series ID mapped to venue name: 468A7487
+Paper rank: 18838
+
+
+8 Diagnosing Network Wide Traffic Anomalies
+Paper ID: 809A08C4
+Original paper title: Diagnosing network-wide traffic anomalies
+Normalized paper title: diagnosing network wide traffic anomalies
+Paper publish year: 2004
+Paper publish date: 2004/08/30
+Paper Document Object Identifier (DOI): 10.1145/1015467.1015492
+Original venue name: acm special interest group on data communication
+Normalized venue name: sigcomm
+Journal ID mapped to venue name: 03EFACE8
+Conference series ID mapped to venue name: 44B13001
+Paper rank: 15923
+
+
+9 Online Novelty Detection on Temporal Sequences
+Paper ID: 780756D1
+Original paper title: Online novelty detection on temporal sequences
+Normalized paper title: online novelty detection on temporal sequences
+Paper publish year: 2003
+Paper publish date: 2003/08/24
+Paper Document Object Identifier (DOI): 10.1145/956750.956828
+Original venue name: knowledge discovery and data mining
+Normalized venue name: kdd
+Journal ID mapped to venue name: 
+Conference series ID mapped to venue name: 436976F3
+Paper rank: 17160
+
+
+group5: hash tables
+1 Massively Parallel NUMA aware Hash Joins
+Paper ID: 028EA028
+Original paper title: Massively Parallel NUMA-Aware Hash Joins
+Normalized paper title: massively parallel numa aware hash joins
+Paper publish year: 2015
+Paper publish date: 2015
+Paper Document Object Identifier (DOI): 10.1007/978-3-319-13960-9_1
+Original venue name: 
+Normalized venue name: 
+Journal ID mapped to venue name: 
+Conference series ID mapped to venue name: 
+Paper rank: 19248
+
+
+2 High performance main memory database management systems
+Paper ID: 825D3547
+Original paper title: High-performance main memory database management systems
+Normalized paper title: high performance main memory database management systems
+Paper publish year: 2013
+Paper publish date: 
+Paper Document Object Identifier (DOI): 
+Original venue name: 
+Normalized venue name: 
+Journal ID mapped to venue name: 
+Conference series ID mapped to venue name: 
+Paper rank: 19541
+
+
+3 Massively Parallel Sort Merge Joins in Main Memory Multi Core Database Systems
+Paper ID: 776B394E
+Original paper title: Massively parallel sort-merge joins in main memory multi-core database systems
+Normalized paper title: massively parallel sort merge joins in main memory multi core database systems
+Paper publish year: 2012
+Paper publish date: 2012/06/01
+Paper Document Object Identifier (DOI): 
+Original venue name: very large data bases
+Normalized venue name: vldb
+Journal ID mapped to venue name: 0215FD76
+Conference series ID mapped to venue name: 4390334E
+Paper rank: 18487
+
+
+4 Design and Evaluation of Main Memory Hash Join Algorithms for Multi core CPUs
+Paper ID: 7D0B1E65
+Original paper title: Design and evaluation of main memory hash join algorithms for multi-core CPUs
+Normalized paper title: design and evaluation of main memory hash join algorithms for multi core cpus
+Paper publish year: 2011
+Paper publish date: 2011/06/12
+Paper Document Object Identifier (DOI): 
+Original venue name: international conference on management of data
+Normalized venue name: sigmod
+Journal ID mapped to venue name: 
+Conference series ID mapped to venue name: 460A7036
+Paper rank: 18256
+
+
+5 Fast and Compact Hash Tables for Integer Keys
+Paper ID: 5FAAB8C0
+Original paper title: Fast and compact hash tables for integer keys
+Normalized paper title: fast and compact hash tables for integer keys
+Paper publish year: 2009
+Paper publish date: 2009/01/01
+Paper Document Object Identifier (DOI): 
+Original venue name: 
+Normalized venue name: 
+Journal ID mapped to venue name: 
+Conference series ID mapped to venue name: 
+Paper rank: 19278
+
+
+6 Database Hash Join Algorithms on Multithreaded Computer Architectures
+Paper ID: 76C54931
+Original paper title: Database hash-join algorithms on multithreaded computer architectures
+Normalized paper title: database hash join algorithms on multithreaded computer architectures
+Paper publish year: 2006
+Paper publish date: 2006/05/03
+Paper Document Object Identifier (DOI): 10.1145/1128022.1128055
+Original venue name: 
+Normalized venue name: 
+Journal ID mapped to venue name: 
+Conference series ID mapped to venue name: 
+Paper rank: 18946
+
+
+group6: network characteristics
+1 Subgraph Frequencies Mapping the Empirical and Extremal Geography of Large Graph Collections
+Paper ID: 5A216EEB
+Original paper title: Subgraph frequencies: mapping the empirical and extremal geography of large graph collections
+Normalized paper title: subgraph frequencies mapping the empirical and extremal geography of large graph collections
+Paper publish year: 2013
+Paper publish date: 2013/05/13
+Paper Document Object Identifier (DOI): 
+Original venue name: international world wide web conferences
+Normalized venue name: www
+Journal ID mapped to venue name: 
+Conference series ID mapped to venue name: 43ABF249
+Paper rank: 19104
+
+
+2 Limited communication capacity unveils strategies for human interaction
+Paper ID: 76367410
+Original paper title: Limited communication capacity unveils strategies for human interaction
+Normalized paper title: limited communication capacity unveils strategies for human interaction
+Paper publish year: 2013
+Paper publish date: 2013/04/07
+Paper Document Object Identifier (DOI): 10.1038/srep01950
+Original venue name: Scientific Reports
+Normalized venue name: scientific reports
+Journal ID mapped to venue name: 0BB9EF81
+Conference series ID mapped to venue name: 
+Paper rank: 18875
+
+
+3 Network sampling and classification An investigation of network model representations
+Paper ID: 7EB0F30B
+Original paper title: Network Sampling and Classification: An Investigation of Network Model Representations
+Normalized paper title: network sampling and classification an investigation of network model representations
+Paper publish year: 2011
+Paper publish date: 2011
+Paper Document Object Identifier (DOI): 
+Original venue name: decision support systems
+Normalized venue name: dss
+Journal ID mapped to venue name: 00AF29E1
+Conference series ID mapped to venue name: 46789D3E
+Paper rank: 19289
+
+
+4 Microscopic Evolution of Social Networks
+Paper ID: 8036DA40
+Original paper title: Microscopic evolution of social networks
+Normalized paper title: microscopic evolution of social networks
+Paper publish year: 2008
+Paper publish date: 2008/08/24
+Paper Document Object Identifier (DOI): 10.1145/1401890.1401948
+Original venue name: knowledge discovery and data mining
+Normalized venue name: kdd
+Journal ID mapped to venue name: 
+Conference series ID mapped to venue name: 436976F3
+Paper rank: 16748
+
+ 
+5 Graph Mining Laws Generators, and Algorithms
+Paper ID: 7C523254
+Original paper title: Graph mining: Laws, generators, and algorithms
+Normalized paper title: graph mining laws generators and algorithms
+Paper publish year: 2006
+Paper publish date: 2006/06/29
+Paper Document Object Identifier (DOI): 
+Original venue name: ACM Computing Surveys
+Normalized venue name: csur
+Journal ID mapped to venue name: 0969B0BC
+Conference series ID mapped to venue name: 
+Paper rank: 16937
+
+ 
+6 Biological Network Comparison Using Graphlet Degree Distribution
+Paper ID: 7D74E490
+Original paper title: Biological network comparison using graphlet degree distribution
+Normalized paper title: biological network comparison using graphlet degree distribution
+Paper publish year: 2007
+Paper publish date: 2007/01/05
+Paper Document Object Identifier (DOI): 10.1093/bioinformatics/btl301
+Original venue name: Bioinformatics
+Normalized venue name: bioinformatics
+Journal ID mapped to venue name: 031F7D94
+Conference series ID mapped to venue name: 
+Paper rank: 17771
+
+
+7 Network Motifs: Simple Building Blocks of Complex Networks
+Paper ID: 7A93BD71
+Original paper title: Simple building blocks show a complex side
+Normalized paper title: simple building blocks show a complex side
+Paper publish year: 2008
+Paper publish date: 2008
+Paper Document Object Identifier (DOI): 
+Original venue name: Materials Today
+Normalized venue name: mater today
+Journal ID mapped to venue name: 03C63A5E
+Conference series ID mapped to venue name: 
+Paper rank: 19555
+
+
+8 Network Topologies Power Laws and Hierarchy
+Paper ID: 764B7617
+Original paper title: Network topologies, power laws, and hierarchy
+Normalized paper title: network topologies power laws and hierarchy
+Paper publish year: 2002
+Paper publish date: 2002/01/01
+Paper Document Object Identifier (DOI): 10.1145/510726.510750
+Original venue name: Computer Communication Review
+Normalized venue name: ccr
+Journal ID mapped to venue name: 03EFACE8
+Conference series ID mapped to venue name: 
+Paper rank: 17003
+
+
+9 Collective dynamics of small world networks
+Paper ID: 7DE3F24E
+Original paper title: Collective dynamics of 'small-world' networks
+Normalized paper title: collective dynamics of small world networks
+Paper publish year: 1998
+Paper publish date: 1998/06/04
+Paper Document Object Identifier (DOI): 10.1038/30918
+Original venue name: Nature
+Normalized venue name: nature
+Journal ID mapped to venue name: 08364228
+Conference series ID mapped to venue name: 
+Paper rank: 12679
+
+
+group7: graph processing
+1 PowerGraph: Distributed Graph-Parallel Computation on Natural Graphs
+Paper ID: 7D74E490
+Original paper title: Biological network comparison using graphlet degree distribution
+Normalized paper title: biological network comparison using graphlet degree distribution
+Paper publish year: 2007
+Paper publish date: 2007/01/05
+Paper Document Object Identifier (DOI): 10.1093/bioinformatics/btl301
+Original venue name: Bioinformatics
+Normalized venue name: bioinformatics
+Journal ID mapped to venue name: 031F7D94
+Conference series ID mapped to venue name: 
+Paper rank: 17771
+
+
+2 Muppet MapReduce Style Processing of Fast Data
+Paper ID: 78AD456F
+Original paper title: Muppet: MapReduce-style processing of fast data
+Normalized paper title: muppet mapreduce style processing of fast data
+Paper publish year: 2012
+Paper publish date: 2012/08/01
+Paper Document Object Identifier (DOI): 
+Original venue name: Proceedings of The Vldb Endowment
+Normalized venue name: pvldb
+Journal ID mapped to venue name: 0215FD76
+Conference series ID mapped to venue name: 
+Paper rank: 18786
+Paper ID: 61DB35A1
+
+
+3 MapReduce Simplified Data Processing on Large Clusters
+Paper ID: 7E82406F
+Original paper title: MapReduce: simplified data processing on large clusters
+Normalized paper title: mapreduce simplified data processing on large clusters
+Paper publish year: 2004
+Paper publish date: 2004/12/06
+Paper Document Object Identifier (DOI): 
+Original venue name: operating systems design and implementation
+Normalized venue name: osdi
+Journal ID mapped to venue name: 
+Conference series ID mapped to venue name: 46A355BA
+Paper rank: 13607
+
+
+4 Distributed GraphLab A Framework for Machine Learning and Data Mining in the Cloud
+Paper ID: 7CF6BA91
+Original paper title: Distributed GraphLab: a framework for machine learning and data mining in the cloud
+Normalized paper title: distributed graphlab a framework for machine learning and data mining in the cloud
+Paper publish year: 2012
+Paper publish date: 2012/04/01
+Paper Document Object Identifier (DOI): 10.14778/2212351.2212354
+Original venue name: very large data bases
+Normalized venue name: vldb
+Journal ID mapped to venue name: 0215FD76
+Conference series ID mapped to venue name: 4390334E
+Paper rank: 16846
+
+
+5 Pregel A System for Large Scale Graph Processing
+Paper ID: 7C6551AD
+Original paper title: Pregel: a system for large-scale graph processing
+Normalized paper title: pregel a system for large scale graph processing
+Paper publish year: 2009
+Paper publish date: 2009
+Paper Document Object Identifier (DOI): 
+Original venue name: acm symposium on parallel algorithms and architectures
+Normalized venue name: spaa
+Journal ID mapped to venue name: 
+Conference series ID mapped to venue name: 451C38EE
+Paper rank: 17624
+
+
+6 GraphChi Large Scale Graph Computation on Just a PC
+Paper ID: 6A957701
+Original paper title: GraphChi: large-scale graph computation on just a PC
+Normalized paper title: graphchi large scale graph computation on just a pc
+Paper publish year: 2012
+Paper publish date: 2012/10/08
+Paper Document Object Identifier (DOI): 
+Original venue name: operating systems design and implementation
+Normalized venue name: osdi
+Journal ID mapped to venue name: 
+Conference series ID mapped to venue name: 46A355BA
+Paper rank: 17364
+
+
+group8: news analysis
+1 Visual Memes in Social Media
+Paper ID: 860F9008
+Original paper title: Visual Methods in Social Research
+Normalized paper title: visual methods in social research
+Paper publish year: 2015
+Paper publish date: 2015/12/01
+Paper Document Object Identifier (DOI): 10.7331/vm.v3i1.77
+Original venue name: 
+Normalized venue name: 
+Journal ID mapped to venue name: 
+Conference series ID mapped to venue name: 
+Paper rank: 19555
+
+
+2 Unified Analysis of Streaming News
+Paper ID: 8170D994
+Original paper title: Unified analysis of streaming news
+Normalized paper title: unified analysis of streaming news
+Paper publish year: 2011
+Paper publish date: 2011/03/28
+Paper Document Object Identifier (DOI): 10.1145/1963405.1963445
+Original venue name: international world wide web conferences
+Normalized venue name: www
+Journal ID mapped to venue name: 07B3FFB5
+Conference series ID mapped to venue name: 43ABF249
+Paper rank: 19002
+
+
+3 Memes Online Extracted Subtracted Injected and Recollected
+Paper ID: 04920441
+Original paper title: Memes Online: Extracted, Subtracted, Injected, and Recollected
+Normalized paper title: memes online extracted subtracted injected and recollected
+Paper publish year: 2011
+Paper publish date: 2011/07/05
+Paper Document Object Identifier (DOI): 
+Original venue name: international conference on weblogs and social media
+Normalized venue name: icwsm
+Journal ID mapped to venue name: 
+Conference series ID mapped to venue name: 4309C535
+Paper rank: 18646
+
+
+4 Detecting and Tracking Political Abuse in Social Media
+Paper ID: 0C0D00B5
+Original paper title: Detecting and Tracking Political Abuse in Social Media
+Normalized paper title: detecting and tracking political abuse in social media
+Paper publish year: 2011
+Paper publish date: 2011/07/05
+Paper Document Object Identifier (DOI): 
+Original venue name: international conference on weblogs and social media
+Normalized venue name: icwsm
+Journal ID mapped to venue name: 
+Conference series ID mapped to venue name: 4309C535
+Paper rank: 18020
+
+
+5 Processing Online News Streams for Large Scale Semantic Analysis
+Paper ID: 80D883FE
+Original paper title: Processing online news streams for large-scale semantic analysis
+Normalized paper title: processing online news streams for large scale semantic analysis
+Paper publish year: 2010
+Paper publish date: 2010/03
+Paper Document Object Identifier (DOI): 
+Original venue name: international conference on data engineering
+Normalized venue name: icde
+Journal ID mapped to venue name: 
+Conference series ID mapped to venue name: 45610CDA
+Paper rank: 17115
+
+
+6 Near Real Time Information Mining in Multilingual News
+Paper ID: 80E2B2B4
+Original paper title: Near real time information mining in multilingual news
+Normalized paper title: near real time information mining in multilingual news
+Paper publish year: 2009
+Paper publish date: 2009/04/20
+Paper Document Object Identifier (DOI): 
+Original venue name: international world wide web conferences
+Normalized venue name: www
+Journal ID mapped to venue name: 07B3FFB5
+Conference series ID mapped to venue name: 43ABF249
+Paper rank: 18187
+
+
+7 Clustering Billions of Images with Large Scale Nearest Neighbor Search
+Paper ID: 8136D297
+Original paper title: Clustering Billions of Images with Large Scale Nearest Neighbor Search
+Normalized paper title: clustering billions of images with large scale nearest neighbor search
+Paper publish year: 2007
+Paper publish date: 2007/02
+Paper Document Object Identifier (DOI): 10.1109/WACV.2007.18
+Original venue name: workshop on applications of computer vision
+Normalized venue name: wacv
+Journal ID mapped to venue name: 
+Conference series ID mapped to venue name: 44865A7C
+Paper rank: 18356
+
+
+8 Learning to Classify Short and Sparse Text & Web with Hidden Topics from Large scale Data Collections
+Paper ID: 81739971
+Original paper title: Learning to classify short and sparse text & web with hidden topics from large-scale data collections
+Normalized paper title: learning to classify short and sparse text web with hidden topics from large scale data collections
+Paper publish year: 2008
+Paper publish date: 2008/04/21
+Paper Document Object Identifier (DOI): 10.1145/1367497.1367510
+Original venue name: international world wide web conferences
+Normalized venue name: www
+Journal ID mapped to venue name: 07B3FFB5
+Conference series ID mapped to venue name: 43ABF249
+Paper rank: 17294
+
+
+9 Earthquake Shakes Twitter Users: Real time Event Detection by Social Sensors
+Paper ID: 7EA14A21
+Original paper title: Earthquake shakes Twitter users: real-time event detection by social sensors
+Normalized paper title: earthquake shakes twitter users real time event detection by social sensors
+Paper publish year: 2010
+Paper publish date: 2010/04/26
+Paper Document Object Identifier (DOI): 10.1145/1772690.1772777
+Original venue name: international world wide web conferences
+Normalized venue name: www
+Journal ID mapped to venue name: 07B3FFB5
+Conference series ID mapped to venue name: 43ABF249
+Paper rank: 15314
+
+
+10 Lydia A System for Large Scale News Analysis
+Paper ID: 5E0E7DAA
+Original paper title: Lydia: A System for Large-Scale News Analysis
+Normalized paper title: lydia a system for large scale news analysis
+Paper publish year: 2005
+Paper publish date: 2005/11/02
+Paper Document Object Identifier (DOI): 10.1007/11575832_18
+Original venue name: string processing and information retrieval
+Normalized venue name: spire
+Journal ID mapped to venue name: 
+Conference series ID mapped to venue name: 462F772C
+Paper rank: 17324
+
+
