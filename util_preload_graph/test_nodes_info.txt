@@ -1,0 +1,59 @@
+122604366:7D3F7B4E
+>>> node.GetInDeg()
+1465
+>>> node.GetOutDeg()
+33
+
+2527422:7D49A2B3
+>>> node.GetInDeg()
+1270
+>>> node.GetOutDeg()
+23
+
+95296621:7FF101BD
+>>> node.GetInDeg()
+271
+>>> node.GetOutDeg()
+10
+
+5023917:7925575D
+>>> node.GetInDeg()
+221
+>>> node.GetOutDeg()
+12
+
+9003370:7B9C9C1B
+>>> node.GetInDeg()
+166
+>>> node.GetOutDeg()
+13
+
+16797867:79CDFE84
+>>> node.GetInDeg()
+517
+>>> node.GetOutDeg()
+23
+
+10393322:7EEBA1EB
+>>> node.GetInDeg()
+15
+>>> node.GetOutDeg()
+25
+
+8767188:7C38952F
+>>> node.GetInDeg()
+32
+>>> node.GetOutDeg()
+56
+
+125934459:7FC8BB2F
+>>> node.GetInDeg()
+394
+>>> node.GetOutDeg()
+19
+
+113660016:797386E3
+>>> node.GetInDeg()
+332
+>>> node.GetOutDeg()
+26
